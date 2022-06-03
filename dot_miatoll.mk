@@ -18,7 +18,7 @@ $(call inherit-product, vendor/dot/config/common.mk)
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := dot_miatoll
+PRODUCT_NAME := fluid_miatoll
 PRODUCT_DEVICE := miatoll
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Miatoll
